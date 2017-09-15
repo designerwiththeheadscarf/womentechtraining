@@ -1,0 +1,9 @@
+body {
+  height: 1500px;
+}
+
+.jumbotron {
+  background-image: url(https://i.pinimg.com/736x/a6/5d/9d/a65d9df33a5989e4b74564517b6d2a7b--monochrome-pattern-black-white-pattern.jpg);
+  background-position: center;
+  background-size: cover;
+}
